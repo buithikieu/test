@@ -2,6 +2,7 @@
 
 ## Docs
 
-- [Overview](https://github.com/Thaco-Industries/ChatbotPlatform_Kubernetes/blob/main/README.md): Help we learn about technology be used in Chatbot Platform Project
+- [Overview](https://github.com/buithikieu/test/blob/main/readme.md): Help we learn about technology be used in Chatbot Platform Project
+
 
 
