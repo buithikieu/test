@@ -1,8 +1,7 @@
-# Docker Documentation Created By Kieu Bui
+# Chatbot Platform Kubernetes Documentation Created By Kieu Bui
 
 ## Docs
 
-- [Overview](https://viblo.asia/p/gioi-thieu-tong-quan-ve-kien-truc-cua-docker-n1j4lOkAVwl): Help we learn about overview of docker (component, usage...)
+- [Overview](https://github.com/Thaco-Industries/ChatbotPlatform_Kubernetes/blob/main/README.md): Help we learn about technology be used in Chatbot Platform Project
 
-- [Command](https://viblo.asia/p/nhung-cau-lenh-va-cac-tuy-chon-huu-ich-trong-docker-m68Z0MdMlkG) : Useful command in docker
 
