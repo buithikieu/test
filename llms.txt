@@ -2,7 +2,8 @@
 
 ## Docs
 
-- [Overview](https://github.com/buithikieu/test/blob/main/readme.md): Help we learn about technology be used, members in Chatbot Platform Project
+- [Overview](https://raw.githubusercontent.com/buithikieu/test/refs/heads/main/readme.md): Help we learn about technology be used, members in Chatbot Platform Project
+
 
 
 
